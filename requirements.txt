@@ -3,4 +3,6 @@ python-dotenv
 pydantic
 langchain
 pytube
+scikit-learn
+langchain_community
 git+https://github.com/openai/whisper.git
