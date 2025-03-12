@@ -5,5 +5,6 @@ langchain
 pytube
 scikit-learn
 langchain_community
+langchain_pinecone
 docarray
 git+https://github.com/openai/whisper.git
