@@ -2,3 +2,5 @@ langchain-openai
 python-dotenv
 pydantic
 langchain
+pytube
+git+https://github.com/openai/whisper.git
